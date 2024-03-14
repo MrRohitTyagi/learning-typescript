@@ -158,3 +158,4 @@ function multipleSum(a: number, b: number, ...rest: number[]): number {
   );
 }
 console.log(multipleSum(1, 2, 3, 4, 5, 6, 5, 342, 4, 32, 4, 32, 43));
+
